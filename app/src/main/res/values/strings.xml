@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">gk_21IT108</string>
+    <string name="title_activity_list_item21_it108">list_item_21IT108</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_list_sv21_it108">list_sv_21IT108</string>
+    <string name="title_activity_danhsach_sv21_it108">danhsachSV_21IT108</string>
+</resources>
